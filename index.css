@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.btn1,.btn2,.btn3,.btn4 {
+    height: 150px;
+    width: 150px;
+    border-radius: 20%;
+    border: 8px solid #000;
+    padding: 15px;
+    margin: 10px;
+}
+
+.btncontainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.btn1 {
+    background-color: #d95980;
+}
+
+.btn2 {
+    background-color: #f99b45;
+}
+
+.btn3 {
+    background-color: #63aac0;
+}
+
+.btn4 {
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: azure;
+}
+
+.userflash{
+    background-color: aquamarine;
+}
